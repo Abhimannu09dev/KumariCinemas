@@ -105,6 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BookingForm.aspx" />
+    <Content Include="Hallform.aspx" />
     <Content Include="Locationform.aspx" />
     <Content Include="Movieform.aspx" />
     <Content Include="UserForm.aspx" />
@@ -117,6 +118,13 @@
     </Compile>
     <Compile Include="BookingForm.aspx.designer.cs">
       <DependentUpon>BookingForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hallform.aspx.cs">
+      <DependentUpon>Hallform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hallform.aspx.designer.cs">
+      <DependentUpon>Hallform.aspx</DependentUpon>
     </Compile>
     <Compile Include="Locationform.aspx.cs">
       <DependentUpon>Locationform.aspx</DependentUpon>
