@@ -108,6 +108,7 @@
     <Content Include="Hallform.aspx" />
     <Content Include="Locationform.aspx" />
     <Content Include="Movieform.aspx" />
+    <Content Include="Ticketform.aspx" />
     <Content Include="Showform.aspx" />
     <Content Include="UserForm.aspx" />
     <Content Include="Web.config" />
@@ -142,6 +143,12 @@
       <DependentUpon>Movieform.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ticketform.aspx.cs">
+      <DependentUpon>Ticketform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ticketform.aspx.designer.cs">
+      <DependentUpon>Ticketform.aspx</DependentUpon>
     <Compile Include="Showform.aspx.cs">
       <DependentUpon>Showform.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
