@@ -106,6 +106,7 @@
   <ItemGroup>
     <Content Include="BookingForm.aspx" />
     <Content Include="Locationform.aspx" />
+    <Content Include="Movieform.aspx" />
     <Content Include="UserForm.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -123,6 +124,13 @@
     </Compile>
     <Compile Include="Locationform.aspx.designer.cs">
       <DependentUpon>Locationform.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Movieform.aspx.cs">
+      <DependentUpon>Movieform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Movieform.aspx.designer.cs">
+      <DependentUpon>Movieform.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserForm.aspx.cs">
