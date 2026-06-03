@@ -466,10 +466,4 @@ This project is licensed under the **MIT License** — see [LICENSE.txt](./LICEN
 
 ---
 
-## 👨‍💻 Author
-
-**Abhimannu Singh Kunwar**
-BSc Computing — Islington College (London Metropolitan University)
-[GitHub](https://github.com/Abhimannu09dev) · [LinkedIn](https://www.linkedin.com/in/abhimannu-singh-kunwar-5a9096268/)
-
-> *Built with ASP.NET Web Forms and Oracle XE 21c for CC6012 Data and Web Development — Islington College / London Metropolitan University.*
+> *Built with ASP.NET Web Forms and Oracle XE 21c *
